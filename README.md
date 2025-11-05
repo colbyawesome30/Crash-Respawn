@@ -1,6 +1,9 @@
 # Crash-Respawn
 
-Week 12 Completion:
+Week 12:
+Task 1: Completed by Bryson Baggette
+Task 2: Completed by Colby Brustein
 
-Task 1: Completed by Colby and Bryson
-Task 2: Completed by Colby and Bryson
+Week 11:
+Task 1: Completed by Colby and Bryson Baggette
+Task 2: Completed by Colby and Bryson Baggette
